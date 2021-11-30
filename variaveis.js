@@ -1,6 +1,5 @@
 // Var forma mais antiga e mais perigosa de usar 
 
-
 var a = 10
 let b = 20
 const c = 30
