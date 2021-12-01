@@ -11,7 +11,7 @@
 
 * Website: www.linkedin.com/in/igor-cruz-ti
 * Github: [@Igor-Cruz](https://github.com/Igor-Cruz)
-* LinkedIn: [@Igor Cruz](https://linkedin.com/in/Igor Cruz)
+* LinkedIn: [@Igor Cruz](https://linkedin.com/in/Igor-Cruz)
 
 ## Show your support
 
